@@ -20,6 +20,7 @@ gem 'jquery-rails'
 
 
 group :development do
+  gem 'pry'
   gem 'rspec-core', '2.7.1'
   gem 'rspec-rails', '2.7.0'
 end
