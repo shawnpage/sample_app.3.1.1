@@ -48,6 +48,7 @@ SampleApp::Application.routes.draw do
 
   # Sample resource route with sub-resources:
   #   resources :products do
+
   #     resources :comments, :sales
   #     resource :seller
   #   end
